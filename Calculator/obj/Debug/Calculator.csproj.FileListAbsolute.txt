@@ -1,0 +1,9 @@
+D:\1. Practice\C Sharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\1. Practice\C Sharp\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\1. Practice\C Sharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\1. Practice\C Sharp\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\1. Practice\C Sharp\Calculator\Calculator\obj\Debug\Calculator.calculatorForm.resources
+D:\1. Practice\C Sharp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\1. Practice\C Sharp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\1. Practice\C Sharp\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\1. Practice\C Sharp\Calculator\Calculator\obj\Debug\Calculator.pdb
